@@ -206,7 +206,20 @@ This project demonstrates practical skills in:
 - Text translation
 - Text-to-speech conversion
 - Repetition reduction during generation
+  
+## Application Preview
 
+### Text Input
+
+![TextOracle Input](textoracle-input.png)
+
+### Generated Text
+
+![TextOracle Generated Text](textoracle-generated-text.png)
+
+### Translation and Text-to-Speech
+
+![TextOracle Output and Audio](textoracle-output-audio.png)
 ## Conclusion
 
 TextOracle demonstrates an end-to-end NLP application that combines text preprocessing, sequence generation, LSTM-based deep learning, multilingual translation, and text-to-speech capabilities.
